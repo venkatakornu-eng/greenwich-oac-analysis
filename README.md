@@ -68,6 +68,7 @@ The dashboard explores demographic and socio-economic patterns, focusing on hous
 3. Interact with filters and visuals to explore insights
 
 ## 📷 Dashboard Preview
+![Dashboard Preview](image/Screenshot1.png)
 
 ## 📌 Future Improvements
 - Add interactive filters (age, subgroup, geography)
